@@ -1,0 +1,9 @@
+D:\Projects\puzzle\C Sharp (C%23) Jigsaw Puzzle Game\C#\Jigsaw1\bin\Debug\OpenSourceGames.CSharpJigsawPuzzle.exe.config
+D:\Projects\puzzle\C Sharp (C%23) Jigsaw Puzzle Game\C#\Jigsaw1\bin\Debug\OpenSourceGames.CSharpJigsawPuzzle.exe
+D:\Projects\puzzle\C Sharp (C%23) Jigsaw Puzzle Game\C#\Jigsaw1\bin\Debug\OpenSourceGames.CSharpJigsawPuzzle.pdb
+D:\Projects\puzzle\C Sharp (C%23) Jigsaw Puzzle Game\C#\Jigsaw1\obj\x86\Debug\JigsawPuzzle.csprojResolveAssemblyReference.cache
+D:\Projects\puzzle\C Sharp (C%23) Jigsaw Puzzle Game\C#\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.MainForm.resources
+D:\Projects\puzzle\C Sharp (C%23) Jigsaw Puzzle Game\C#\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.Properties.Resources.resources
+D:\Projects\puzzle\C Sharp (C%23) Jigsaw Puzzle Game\C#\Jigsaw1\obj\x86\Debug\JigsawPuzzle.csproj.GenerateResource.Cache
+D:\Projects\puzzle\C Sharp (C%23) Jigsaw Puzzle Game\C#\Jigsaw1\obj\x86\Debug\OpenSourceGames.CSharpJigsawPuzzle.exe
+D:\Projects\puzzle\C Sharp (C%23) Jigsaw Puzzle Game\C#\Jigsaw1\obj\x86\Debug\OpenSourceGames.CSharpJigsawPuzzle.pdb
